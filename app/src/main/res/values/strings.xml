@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hilt</string>
+    <string name="recyclerContentDescription">This is a list</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_loading">Loading…</string>
+    <string name="splash_error">There was an error, please retry again</string>
+    <string name="splash_retry">Retry</string>
+</resources>
